@@ -1,6 +1,6 @@
 h1 {color:red;}
 #f1 {color:blue;}
 .f2 {color:green;}
-#e1 {color:purple;}
-.e2 {color:yellow;}
-.e3 {color:brown;}
+#mod .e1 b {color:yellow;}
+#mod .e2 b {color:purple;}
+#mod .e3 b {color:blue;}
