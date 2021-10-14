@@ -5,6 +5,5 @@ h1 {color:red;}
 #mod .e2 b {color:purple;}
 #mod .e3 b {color:blue;}
 
-//Portfolio:
-a {href:"https://www.python.org/shell/"; }
+a {vlink:red; alink:orange;}
 table {bordercolor:white; border:3; width:50%; height:200px;}
