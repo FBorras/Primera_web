@@ -9,6 +9,6 @@ h1 {color:red;}
 #p12 .p1 {color:grey;}
 #p12 .p2 {color:pink;}
 a {vlink:red; alink:orange;}
-table {bordercolor:white; border:3; width:50%; height:200px;}
+table {border-color:white; border:3; width:50%; height:200px;}
 #span1 {background-color:white;}
 #lista {color:white;}
